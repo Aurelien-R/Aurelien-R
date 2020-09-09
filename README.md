@@ -8,5 +8,7 @@
 - 👯 I’m looking to collaborate with a company
 - 🤔 I’m working on different personnal projects
 - 💬 Ask me about JavaScript / PHP / HTML / CSS / SYMFONY
-- 📫 How to reach me: aurelien.romain44@gmail.com
+- 📫 How to reach me: 
+  - aurelien.romain44@gmail.com
+  - https://www.linkedin.com/in/aurelien-romain/
 - ⚡ Fun fact: I'm cool :D
